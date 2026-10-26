@@ -1,0 +1,6 @@
+{
+  "name": "ATRIUM MTL",
+  "description": "An archive of light cast in stone",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
